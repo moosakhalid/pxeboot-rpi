@@ -2,7 +2,7 @@
 
 1) apt-get install isc-dhcp-server tftp-hpa lftp
 
-#Fetch a netboot installer from ubuntu archives for serving to PXE boot clients, in this case I'm fetching
+#Fetch a netboot installer from ubuntu(http://cdimage.ubuntu.com/netboot/)  archives for serving to PXE boot clients, in this case I'm fetching
 #installer for Ubuntu distro Yakkety Yak, you can set up yours as you prefer
 
 
